@@ -64,10 +64,6 @@
 - [WhatsApp API](https://github.com/felipeDS91/whatsapp-api) - API REST pour envoyer messages WhatsApp. (via [ce tweet](https://x.com/tom_doerr/status/2007693904456335449))
 - [Undetectable Fingerprint Browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser) - Navigateur automation avec spoofing fingerprint. (via [ce tweet](https://x.com/tom_doerr/status/2006721432277889504))
 
-## Contribution
-Les contributions sont bienvenues ! Ouvrez une issue ou une PR pour ajouter/supprimer des apps.
-- Vérifiez que c'est vraiment open source et actif.
-- Ajoutez le lien tweet source si possible.
 
 ## Licence
 [MIT](LICENSE)
