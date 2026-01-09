@@ -1,5 +1,4 @@
 # Awesome Open Source Apps from X/Twitter
-
 > Une liste d'applications et outils open source super intéressants découverts sur X (Twitter).
 
 ## Table des matières
@@ -7,11 +6,14 @@
 - [Outils Dev & Coding](#outils-dev--coding)
 - [macOS & Productivity](#macos--productivity)
 - [Self-Hosted & Serveurs](#self-hosted--serveurs)
+- [Sécurité & Password Managers](#sécurité--password-managers)
+- [3D / Graphismes / WebGL](#3d--graphismes--webgl)
+- [Bureautique & Collaboration](#bureautique--collaboration)
 - [Design & Inspiration](#design--inspiration)
 - [Autres](#autres)
 
 ## AI & Agents
-- [Sure](https://github.com/we-promise/sure) - Application de finances personnelles avec assistant IA. (Découvert via [ce tweet](https://x.com/tom_doerr/status/2002205442294915517))
+- [Sure](https://github.com/we-promise/sure) - Application de finances personnelles avec assistant IA. (via [ce tweet](https://x.com/tom_doerr/status/2002205442294915517))
 - [Baiss](https://github.com/Tbeninnovation/Baiss) - Exécute des LLMs et RAG localement sur desktop. (via [ce tweet](https://x.com/tom_doerr/status/2003861584787935374))
 - [StenoAI](https://ruzin.github.io/stenoai/) - Transcription et summarisation de réunions localement avec modèles légers. (via [ce tweet](https://x.com/tom_doerr/status/2004452266640634056))
 - [Raven](https://github.com/31d4r/Raven) - Chat local avec documents pour macOS/iOS. (via [ce tweet](https://x.com/tom_doerr/status/2004444641202966569))
@@ -19,6 +21,8 @@
 - [Wifi Densepose](https://github.com/ruvnet/wifi-densepose) - Détecte les poses humaines à travers les murs via signaux WiFi. (via [ce tweet](https://x.com/tom_doerr/status/2004227181673652540))
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Framework multi-agent pour développement logiciel. (via [ce tweet](https://x.com/tom_doerr/status/2008067222871130380))
 - [Eigent](https://github.com/eigent-ai/eigent) - Workforce multi-agent open source qui tourne localement. (via [ce tweet](https://x.com/0x0SojalSec/status/2007038466773918125))
+- [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - Agent d'automatisation desktop local puissant (contrôle apps, navigation, fichiers) 100% open-source et offline. (via [ce tweet](https://x.com/simplifyinai/status/2009260657024131293))
+- [5ire](https://github.com/nanbingxyz/5ire) - Assistant IA desktop + client MCP. (via [ce tweet](https://x.com/tom_doerr/status/2009338143233749276))
 
 ## Outils Dev & Coding
 - [Web-Check](https://github.com/Lissy93/web-check) - Outil d'inspection de sites web complet (DNS, SSL, ports, etc.). (via [ce tweet](https://x.com/HiTw93/status/2007959981442879661))
@@ -32,6 +36,9 @@
 - [Drip](https://github.com/Gouryella/drip) - Tunnel self-hosted pour exposer localhost via sa propre infra. (via [ce tweet](https://x.com/tom_doerr/status/2006362266116014151))
 - [Portabase](https://github.com/Portabase/portabase) - Automatise backup et restauration de bases de données. (via [ce tweet](https://x.com/tom_doerr/status/2006664125158486104))
 - [Polaris](https://github.com/codewithantonio/polaris) - Éditeur de code IA-powered (comme Cursor). (via [ce tweet](https://x.com/codewithantonio/status/2008344447663190246))
+- [drawdb](https://github.com/drawdb-io/drawdb) - Éditeur de schéma de base de données + générateur SQL dans le navigateur. (via [ce tweet](https://x.com/tom_doerr/status/2009483254047396345))
+- [LocalAI](https://github.com/mudler/LocalAI) - Alternative OpenAI qui tourne sur ton hardware local. (via [ce tweet](https://x.com/tom_doerr/status/2009235043877638343))
+- [n-skills](https://github.com/numman-ali/n-skills) - Orchestration multi-agent avancée avec tracking de dépendances pour Claude Code. (via [ce tweet](https://x.com/nummanali/status/2009236522940420436))
 
 ## macOS & Productivity
 - [Awesome Swift macOS Apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - Liste curée d'apps macOS en Swift. (via [ce tweet](https://x.com/tom_doerr/status/2002712617022853280))
@@ -39,6 +46,8 @@
 - [BetterAudio](https://github.com/rokartur/BetterAudio) - Gestion des périphériques audio depuis la barre de menu macOS. (via [ce tweet](https://x.com/tom_doerr/status/2004437017212420273))
 - [CodeApp](https://github.com/thebaselab/codeapp) - Éditeur de code pour iPad avec terminal et runtimes. (via [ce tweet](https://x.com/tom_doerr/status/2006885798637903920))
 - [Nap](https://github.com/maaslalani/nap) - Gestionnaire de snippets avec interface terminal. (via [ce tweet](https://x.com/tom_doerr/status/2006763472546136474))
+- [Peekaboo](https://github.com/steipete/Peekaboo/) - Automatisation macOS via capture d'écran + IA. (via [ce tweet](https://x.com/tom_doerr/status/2008769885485011031))
+- [WailBrew](https://github.com/wickenico/WailBrew) - Interface graphique pour gérer Homebrew sur macOS. (via [ce tweet](https://x.com/tom_doerr/status/2009254128631836926))
 
 ## Self-Hosted & Serveurs
 - [Lifeforge](https://github.com/Lifeforge-app/lifeforge) - Système self-hosted pour organiser sa vie. (via [ce tweet](https://x.com/tom_doerr/status/2003781347152744632))
@@ -49,6 +58,18 @@
 - [Mayan EDMS](https://github.com/mayan-edms/Mayan-EDMS) - Système de gestion de documents avec OCR et API REST. (via [ce tweet](https://x.com/tom_doerr/status/2008200997122752954))
 - [Soft Serve](https://github.com/charmbracelet/soft-serve) - Serveur Git self-hostable avec TUI via SSH. (via [ce tweet](https://x.com/tom_doerr/status/2008399848605626689))
 - [Webbian](https://github.com/Fmstrat/webbian) - Système Linux dans le navigateur via Docker/noVNC. (via [ce tweet](https://x.com/tom_doerr/status/2008318269988462861))
+- [databasus](https://github.com/databasus/databasus) - Backups de bases de données vers multiples destinations avec notifications. (via [ce tweet](https://x.com/tom_doerr/status/2009261767889727554))
+- [openemm](https://github.com/agnitas-org/openemm/) - Logiciel d'automatisation email et campagnes marketing. (via [ce tweet](https://x.com/tom_doerr/status/2008689636734804373))
+
+## Sécurité & Password Managers
+- [a-pass](https://github.com/balu-/a-pass/) - Password manager utilisant le chiffrement age. (via [ce tweet](https://x.com/tom_doerr/status/2008766065325552048))
+- [KeePassXC](https://keepassxc.org/) - Gestionnaire de mots de passe gratuit, open-source, AES-256, vaults KDBX offline, TOTP intégré, multi-plateforme. (via [ce tweet](https://x.com/alternativeto/status/2008607025245151286))
+
+## 3D / Graphismes / WebGL
+- [Three.js](https://github.com/mrdoob/three.js) - Bibliothèque JavaScript la plus populaire pour créer et afficher du contenu 3D dans un navigateur web en utilisant WebGL. (découvert via plusieurs mentions récentes sur X)
+
+## Bureautique & Collaboration
+- [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer) - Suite bureautique open-source complète (documents, tableurs, présentations) compatible avec les formats Microsoft Office, self-hostable ou en ligne. (via [site officiel](https://www.onlyoffice.com/fr) et mentions X)
 
 ## Design & Inspiration
 - Sites d'inspiration design (craftwork, onepagelove, mobbin, etc.) – Liste de ressources UI/UX. (via [ce tweet](https://x.com/UiSavior/status/2002027935994134564))
@@ -63,7 +84,11 @@
 - [Maily.to](https://github.com/9d8dev/maily.to) - Éditeur d'emails avec composants pré-designés. (via [ce tweet](https://x.com/tom_doerr/status/2007396701359755266))
 - [WhatsApp API](https://github.com/felipeDS91/whatsapp-api) - API REST pour envoyer messages WhatsApp. (via [ce tweet](https://x.com/tom_doerr/status/2007693904456335449))
 - [Undetectable Fingerprint Browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser) - Navigateur automation avec spoofing fingerprint. (via [ce tweet](https://x.com/tom_doerr/status/2006721432277889504))
-
+- [SQL Studio](https://sql.studio) - Client SQL moderne, cross-platform, rapide (SQLite supporté, beta publique). (via [ce tweet](https://x.com/antfroze/status/2009336113975185452))
+- [Postiz](https://github.com/gitroomhq/postiz-app) - Planificateur de posts réseaux sociaux avec IA. (via [ce tweet](https://x.com/tom_doerr/status/2009605477752045982))
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) - Moniteur de trafic réseau multi-plateforme. (via [ce tweet](https://x.com/tom_doerr/status/2009693350736097668))
+- [HeyForm](https://github.com/heyform/heyform) - Constructeur de formulaires/sondages conversationnels. (via [ce tweet](https://x.com/tom_doerr/status/2009613115852231112))
+- [Stack](https://github.com/codename-co/stack/) - Installation d'apps open source en un clic. (via [ce tweet](https://x.com/tom_doerr/status/2008310624703447147))
 
 ## Licence
 [MIT](LICENSE)
