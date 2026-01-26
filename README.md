@@ -31,6 +31,8 @@
 - **[Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** — Infrastructure personnelle pour AI (built with Claude, primitives, bundles, packs) – magnifie ton quotidien avec de l'IA locale et custom
 - **[AutoMem](https://github.com/verygoodplugins/automem)** — Système de mémoire intelligent pour assistants IA (apprend, retient et contextualise automatiquement)
 - **[RalphBlaster](https://github.com/saasmakermac/ralphblaster)** — Workflow dev full agentique : ticket → PRD → code auto dans worktree isolé (Claude-powered, zéro édition manuelle) – waitlist live mais repo attendu
+- **[PageDot CLI](https://github.com/pagedotapp/cli)** — Automatise les actions pour les emails entrants (super pour agents IA email)
+- **[PersonaPlex-7B](https://github.com/NVIDIA/personaplex)** — Modèle conversationnel full-duplex open-source (écoute et parle en même temps) par NVIDIA – voix ultra-naturelle pour agents
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers, etc.)
@@ -41,6 +43,7 @@
 - **[n-skills](https://github.com/numman-ali/n-skills)** — Orchestration multi-agent avancée pour Claude Code
 - **[boson](https://github.com/boson-php/boson)** — Développer des applications desktop avec PHP
 - **[AirLLM](https://github.com/0xSojalSec/airllm)** — Lance des modèles 70B sur 4GB VRAM (ou 405B sur 8GB) via layer-wise inference – parfait pour prototyper agents sur hardware modeste
+- **[DataStack](https://github.com/data-stack-hub/DataStack)** — Construit des web apps en Python pur sans connaissances frontend
 
 ## macOS & Productivity
 - **[Mole](https://github.com/tw93/Mole)** — Nettoyage et optimisation macOS (alternative CleanMyMac / DaisyDisk)
@@ -69,6 +72,7 @@
 - **[Postiz](https://github.com/gitroomhq/postiz-app)** — Planificateur de posts réseaux sociaux avec IA
 - **[Sniffnet](https://github.com/GyulyVGC/sniffnet)** — Moniteur de trafic réseau multi-plateforme
 - **[HeyForm](https://github.com/heyform/heyform)** — Constructeur de formulaires/sondages conversationnels
+- **[Vibe Coding Architect Prompt](https://x.com/godofprompt/status/2012265207335137290)** — Prompt ultra-détaillé "Lead Software Architect" pour forcer Claude/GPT à respecter une archi stricte en mode vibe coding (copie-colle direct dans ton LLM préféré)
 
 ## Licence
 [MIT](LICENSE)
