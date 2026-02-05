@@ -21,7 +21,7 @@
 - **[Wifi Densepose](https://github.com/ruvnet/wifi-densepose)** — Détecte les poses humaines à travers les murs via WiFi
 - **[Auto-Claude](https://github.com/AndyMik90/Auto-Claude)** — Framework multi-agent pour développement logiciel
 - **[Eigent](https://github.com/eigent-ai/eigent)** — Workforce multi-agent open source local
-- **[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — Agent d'automatisation desktop local puissant (apps, navigation, fichiers) – 100% offline
+- **[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** — Agent d'automatisation desktop local puissant (apps, navigation, fichiers) – 100% offline, multimodal, contrôle total via instructions naturelles (mis en avant récemment par ByteDance)
 - **[5ire](https://github.com/nanbingxyz/5ire)** — Assistant IA desktop + client MCP
 - **[llm-god](https://github.com/czhou578/llm-god)** — Prompt plusieurs LLMs en parallèle
 - **[superpowers](https://github.com/obra/superpowers)** — Bibliothèque de compétences avancées pour Claude Code
@@ -33,6 +33,8 @@
 - **[RalphBlaster](https://github.com/saasmakermac/ralphblaster)** — Workflow dev full agentique : ticket → PRD → code auto dans worktree isolé (Claude-powered, zéro édition manuelle) – waitlist live mais repo attendu
 - **[PageDot CLI](https://github.com/pagedotapp/cli)** — Automatise les actions pour les emails entrants (super pour agents IA email)
 - **[PersonaPlex-7B](https://github.com/NVIDIA/personaplex)** — Modèle conversationnel full-duplex open-source (écoute et parle en même temps) par NVIDIA – voix ultra-naturelle pour agents
+- **[Dash](https://github.com/agno-agi/dash)** — Self-learning data agent qui s'améliore à chaque exécution (inspiré de l'agent data interne d'OpenAI) – apprend de ses erreurs, gagne en contexte, devient plus intelligent avec le temps
+- **[Sokuji](https://github.com/kizuna-ai-lab/sokuji)** — Traduction vocale en temps réel avec IA (real-time speech translation)
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers, etc.)
