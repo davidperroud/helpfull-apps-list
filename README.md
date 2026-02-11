@@ -1,4 +1,4 @@
-# Awesome Open Source Apps from X/Twitter
+**# Awesome Open Source Apps from X/Twitter
 > Une liste d'applications et outils open source super intéressants découverts sur X (Twitter).
 
 ## Table des matières
@@ -78,3 +78,4 @@
 
 ## Licence
 [MIT](LICENSE)
+**
