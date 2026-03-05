@@ -46,6 +46,10 @@
 - **[antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** — Bibliothèque de compétences pour agents IA
 - **[tinyclaw](https://github.com/TinyAGI/tinyclaw)** — Équipe d'agents IA personnels qui collaborent
 - **[visual-explainer](https://github.com/nicobailon/visual-explainer)** — Génère des pages HTML riches pour expliquer architecture, diffs, plans…
+- **[Pixel Agents](https://github.com/pablodelucca/pixel-agents)** — Extension VS Code qui transforme les agents IA (Claude Code) en personnages pixel art dans un bureau virtuel
+- **[OpenFang](https://github.com/RightNow-AI/openfang)** — OS complet pour agents autonomes en Rust (32 MB binaire), agents 24/7 sur schedules (monitoring, leads, social media)
+- **[OpenPackage](https://github.com/enulus/OpenPackage)** — Package manager pour configurations d'agents de coding
+- **[OpenWork](https://github.com/langchain-ai/openwork)** — Interface desktop pour agents avec accès filesystem (note : différent de l'ancien openwork)
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers…)
@@ -57,16 +61,20 @@
 - **[AirLLM](https://github.com/0xSojalSec/airllm)** — Lance des modèles 70B sur 4GB VRAM via layer-wise inference
 - **[DataStack](https://github.com/data-stack-hub/DataStack)** — Construit des web apps en Python pur sans frontend
 - **[ai-assisted-engineering](https://github.com/JohnCrickett/ai-assisted-engineering)** — Guide pour l'ingénierie logicielle assistée par LLMs
+- **[TablePro](https://github.com/datlechin/TablePro)** — Client base de données macOS avec assistance IA pour SQL
 
 ## macOS & Productivity
 - **[Mole](https://github.com/tw93/Mole)** — Nettoyage et optimisation macOS (alternative CleanMyMac)
 - **[Droppy](https://github.com/iordv/Droppy)** — Gestion de fichiers + shelf + clipboard manager pour macOS
 - **[SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)** — Alternative open source à Raycast avec extensions compatibles
+- **[Memola](https://github.com/dscyrescotti/Memola)** — Application de prise de notes construite avec Metal (optimisée macOS)
 
 ## Self-Hosted & Serveurs
 - **[Lifeforge](https://github.com/Lifeforge-app/lifeforge)** — Système self-hosted pour organiser sa vie
 - **[BillionMail](https://github.com/Billionmail/BillionMail)** — Serveur mail + marketing self-hosted
 - **[Soft Serve](https://github.com/charmbracelet/soft-serve)** — Serveur Git avec interface TUI via SSH
+- **[Mixpost](https://github.com/inovector/mixpost)** — Plateforme self-hosted de gestion réseaux sociaux
+- **[Listmonk](https://github.com/knadh/listmonk)** — Gestionnaire de newsletters et mailing lists self-hosted (single binary)
 
 ## Sécurité & Password Managers
 - **[KeePassXC](https://keepassxc.org/)** — Gestionnaire de mots de passe open-source, offline, AES-256, TOTP
@@ -87,6 +95,11 @@
 - **[Sniffnet](https://github.com/GyulyVGC/sniffnet)** — Moniteur de trafic réseau multi-plateforme
 - **[HeyForm](https://github.com/heyform/heyform)** — Constructeur de formulaires/sondages conversationnels
 - **[Vibe Coding Architect Prompt](https://x.com/godofprompt/status/2012265207335137290)** — Prompt ultra-détaillé "Lead Software Architect" pour vibe coding strict
+- **[Open Source macOS Apps](https://github.com/serhii-londar/open-source-mac-os-apps)** — Répertoire d'applications open source pour macOS
+- **[Automatic1111 / Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — Interface open-source Stable Diffusion (génération illimitée d'images IA localement, très populaire)
+- **[Prompts.chat](https://github.com/f/prompts.chat)** — Grande bibliothèque open-source de prompts (140k+ stars, compatible ChatGPT/Claude/Gemini/etc.)
+- **[MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automatisation de création de contenu pour réseaux sociaux
+- **[Lifo](https://lifo.sh/)** — OS ultra-rapide type Linux dans le navigateur (mapping APIs Linux → browser, pour agents et code non fiable)
 
 ## Licence
 [MIT](LICENSE)
