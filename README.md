@@ -51,6 +51,18 @@
 - **[OpenPackage](https://github.com/enulus/OpenPackage)** — Package manager pour configurations d'agents de coding
 - **[OpenWork](https://github.com/langchain-ai/openwork)** — Interface desktop pour agents avec accès filesystem (note : différent de l'ancien openwork)
 
+**🔥 Nouveaux ajouts :**
+- **[geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)** — Optimise les sites web pour les moteurs de recherche IA (GEO/LEO)
+- **[sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)** — Orchestre des agents IA dans des workspaces Linux sécurisés
+- **[Lightpanda](https://github.com/lightpanda-io/browser)** — Navigateur headless Zig 11x plus rapide & 9x moins gourmand que Chrome (parfait pour agents/scraping)
+- **[SkillDeck](https://github.com/crossoverJie/SkillDeck)** — Gestionnaire de skills pour agents code sur macOS
+- **[OpenViking](https://github.com/volcengine/OpenViking)** — Système de mémoire hiérarchique filesystem-like (L0-L2 tiered) pour agents IA (ByteDance)
+- **[Deep Agents](https://github.com/langchain-ai/deepagents)** — Réplique open-source MIT de Claude Code (planning, FS, shell, sub-agents, summarization)
+- **[Void](https://github.com/voideditor/void)** — Alternative open-source à Cursor avec IA 100% locale
+- **[mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use)** — Serveur MCP Swift ultra-rapide pour automation macOS
+- **[iMCP](https://github.com/mattt/iMCP)** — Connecte n’importe quelle app macOS à ton IA via MCP
+- **[XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** — Serveur MCP dédié à Xcode/builds pour agents Apple
+
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers…)
 - **[The Algorithms - Python](https://github.com/TheAlgorithms/Python)** — Collection massive d’algorithmes en Python
@@ -63,11 +75,18 @@
 - **[ai-assisted-engineering](https://github.com/JohnCrickett/ai-assisted-engineering)** — Guide pour l'ingénierie logicielle assistée par LLMs
 - **[TablePro](https://github.com/datlechin/TablePro)** — Client base de données macOS avec assistance IA pour SQL
 
+**🔥 Nouveaux :**
+- **Google Colab intégré à VS Code** — GPU T4 gratuit + fichiers locaux directement dans ton éditeur[](https://x.com/heygurisingh/status/2031287290614743215)
+- **[DBcooper](https://github.com/dbcooper-app/dbcooper)** — Client DB léger Tauri+Rust (Postgres, SQLite, Redis, ClickHouse) + génération SQL en langage naturel
+
 ## macOS & Productivity
 - **[Mole](https://github.com/tw93/Mole)** — Nettoyage et optimisation macOS (alternative CleanMyMac)
 - **[Droppy](https://github.com/iordv/Droppy)** — Gestion de fichiers + shelf + clipboard manager pour macOS
 - **[SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)** — Alternative open source à Raycast avec extensions compatibles
 - **[Memola](https://github.com/dscyrescotti/Memola)** — Application de prise de notes construite avec Metal (optimisée macOS)
+
+**🔥 Nouveaux :**
+- **[Port Menu](https://www.portmenu.dev/)** — Menu bar macOS qui liste tous tes serveurs dev en cours[](https://x.com/eduardwieandt/status/2030653886717899106)
 
 ## Self-Hosted & Serveurs
 - **[Lifeforge](https://github.com/Lifeforge-app/lifeforge)** — Système self-hosted pour organiser sa vie
@@ -86,6 +105,9 @@
 - **[OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer)** — Suite bureautique open-source compatible MS Office
 - **[anchor](https://github.com/ZhFahim/anchor)** — Application de prise de notes offline-first et self-hostable
 
+**🔥 Nouveau :**
+- **[ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar)** — Composant calendrier drag & drop avec récurrence d’événements
+
 ## Design & Inspiration
 - **[Krumzi](https://www.krumzi.com/tools/animated-background-generator)** — Générateur gratuit de fonds animés gradients
 
@@ -100,6 +122,13 @@
 - **[Prompts.chat](https://github.com/f/prompts.chat)** — Grande bibliothèque open-source de prompts (140k+ stars, compatible ChatGPT/Claude/Gemini/etc.)
 - **[MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — Automatisation de création de contenu pour réseaux sociaux
 - **[Lifo](https://lifo.sh/)** — OS ultra-rapide type Linux dans le navigateur (mapping APIs Linux → browser, pour agents et code non fiable)
+
+**🔥 Nouveaux ajouts :**
+- **[A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)** — Guide officiel OpenAI (design, orchestration, guardrails, multi-agent)
+- **[Ground Station](https://github.com/simplifyinAI/ground-station)** — Logiciel open-source RTL-SDR pour suivre satellites, météo spatiale, ISS, TV gratuite[](https://x.com/marc296134/status/2034144254533005319)
+- **Locally AI** — LLMs (Qwen 3.5 9B) ultra-optimisés sur iPhone/Mac avec MLX[](https://x.com/locallyaiapp/status/2029980377201197118)
+- **Okara AI CMO** — Équipe d’agents marketing complète en 1 clic (460k vues en 2h 🔥)[](https://x.com/sahilypatel/status/2033595338687443322)
+- **Nemotron 3 Super 120B + Ollama + OpenClaw** — Setup IA locale gratuite ultra-puissante[](https://x.com/juliangoldieseo/status/2032517466258288879)
 
 ## Licence
 [MIT](LICENSE)
