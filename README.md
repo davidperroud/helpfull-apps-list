@@ -62,6 +62,13 @@
 - **[mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use)** — Serveur MCP Swift ultra-rapide pour automation macOS
 - **[iMCP](https://github.com/mattt/iMCP)** — Connecte n’importe quelle app macOS à ton IA via MCP
 - **[XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** — Serveur MCP dédié à Xcode/builds pour agents Apple
+- **[OneCLI](https://github.com/onecli/onecli)** — Gateway open-source qui injecte les credentials à la volée dans les requêtes des agents IA (sécurité AES-256, proxy intelligent)
+- **[mcp-manager](https://github.com/Brightwing-Systems-LLC/mcp-manager)** — Gestionnaire de serveurs MCP pour outils IA
+- **[Spacecake](https://github.com/spacecake-labs/spacecake)** — Application desktop open-source dédiée à Claude Code
+- **[Podcats](https://github.com/hoxigo/Podcats)** — Transforme n’importe quel PDF en podcast IA (2 speakers, 12 langues, 5 voix, script éditable) – Mac & Windows
+- **[asiai](https://asiai.dev)** — Mesure les vrais tokens/s des LLMs locaux sur Apple Silicon (comparaison par moteur : Ollama, LM Studio, etc.)
+- **[Context+](https://github.com/ForLoopCodes/contextplus)** — Serveur MCP qui construit une carte sémantique complète de ton codebase (Tree-sitter, clustering, graph, blast radius) pour agents IA
+- **[awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)** — Liste exhaustive d’APIs LLM gratuites
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers…)
@@ -78,6 +85,7 @@
 **🔥 Nouveaux :**
 - **Google Colab intégré à VS Code** — GPU T4 gratuit + fichiers locaux directement dans ton éditeur[](https://x.com/heygurisingh/status/2031287290614743215)
 - **[DBcooper](https://github.com/dbcooper-app/dbcooper)** — Client DB léger Tauri+Rust (Postgres, SQLite, Redis, ClickHouse) + génération SQL en langage naturel
+- **[browsr](https://github.com/juftin/browsr)** — Explorateur de fichiers terminal puissant pour systèmes locaux et distants
 
 ## macOS & Productivity
 - **[Mole](https://github.com/tw93/Mole)** — Nettoyage et optimisation macOS (alternative CleanMyMac)
@@ -87,6 +95,8 @@
 
 **🔥 Nouveaux :**
 - **[Port Menu](https://www.portmenu.dev/)** — Menu bar macOS qui liste tous tes serveurs dev en cours[](https://x.com/eduardwieandt/status/2030653886717899106)
+- **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Transforme le notch du MacBook en surface de commande (médias, stats système, timers, calendrier, clipboard, color picker)
+- **[Spacecake](https://github.com/spacecake-labs/spacecake)** — Application desktop open-source pour Claude Code
 
 ## Self-Hosted & Serveurs
 - **[Lifeforge](https://github.com/Lifeforge-app/lifeforge)** — Système self-hosted pour organiser sa vie
@@ -107,9 +117,11 @@
 
 **🔥 Nouveau :**
 - **[ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar)** — Composant calendrier drag & drop avec récurrence d’événements
+- **[RevPDF](https://github.com/Pawandeep-prog/revpdf-release)** — Éditeur PDF natif offline (Mac & Linux)
 
 ## Design & Inspiration
 - **[Krumzi](https://www.krumzi.com/tools/animated-background-generator)** — Générateur gratuit de fonds animés gradients
+- **[Upscayl](https://github.com/upscayl/upscayl)** — Upscaler d’images IA ultra-performant (Linux, macOS, Windows) – 44k+ stars
 
 ## Autres
 - **[Spec Kit](https://github.com/github/spec-kit)** — Toolkit pour mieux spécifier les projets IA
