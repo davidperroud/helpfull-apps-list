@@ -52,23 +52,16 @@
 - **[OpenWork](https://github.com/langchain-ai/openwork)** — Interface desktop pour agents avec accès filesystem (note : différent de l'ancien openwork)
 
 **🔥 Nouveaux ajouts :**
-- **[geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)** — Optimise les sites web pour les moteurs de recherche IA (GEO/LEO)
-- **[sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)** — Orchestre des agents IA dans des workspaces Linux sécurisés
-- **[Lightpanda](https://github.com/lightpanda-io/browser)** — Navigateur headless Zig 11x plus rapide & 9x moins gourmand que Chrome (parfait pour agents/scraping)
-- **[SkillDeck](https://github.com/crossoverJie/SkillDeck)** — Gestionnaire de skills pour agents code sur macOS
-- **[OpenViking](https://github.com/volcengine/OpenViking)** — Système de mémoire hiérarchique filesystem-like (L0-L2 tiered) pour agents IA (ByteDance)
-- **[Deep Agents](https://github.com/langchain-ai/deepagents)** — Réplique open-source MIT de Claude Code (planning, FS, shell, sub-agents, summarization)
-- **[Void](https://github.com/voideditor/void)** — Alternative open-source à Cursor avec IA 100% locale
-- **[mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use)** — Serveur MCP Swift ultra-rapide pour automation macOS
-- **[iMCP](https://github.com/mattt/iMCP)** — Connecte n’importe quelle app macOS à ton IA via MCP
-- **[XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** — Serveur MCP dédié à Xcode/builds pour agents Apple
-- **[OneCLI](https://github.com/onecli/onecli)** — Gateway open-source qui injecte les credentials à la volée dans les requêtes des agents IA (sécurité AES-256, proxy intelligent)
-- **[mcp-manager](https://github.com/Brightwing-Systems-LLC/mcp-manager)** — Gestionnaire de serveurs MCP pour outils IA
-- **[Spacecake](https://github.com/spacecake-labs/spacecake)** — Application desktop open-source dédiée à Claude Code
-- **[Podcats](https://github.com/hoxigo/Podcats)** — Transforme n’importe quel PDF en podcast IA (2 speakers, 12 langues, 5 voix, script éditable) – Mac & Windows
-- **[asiai](https://asiai.dev)** — Mesure les vrais tokens/s des LLMs locaux sur Apple Silicon (comparaison par moteur : Ollama, LM Studio, etc.)
-- **[Context+](https://github.com/ForLoopCodes/contextplus)** — Serveur MCP qui construit une carte sémantique complète de ton codebase (Tree-sitter, clustering, graph, blast radius) pour agents IA
-- **[awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis)** — Liste exhaustive d’APIs LLM gratuites
+- **[Onyx](https://github.com/onyx-dot-app/onyx)** — Alternative open-source à Claude (RAG local, 40+ connecteurs données, Cowork-like, self-host Docker) – 20k+ stars
+- **[AutoSkills](https://github.com/midudev/autoskills)** — Installe automatiquement des skills pour agents IA selon la stack tech du projet
+- **[TaxHacker](https://github.com/vas3k/TaxHacker)** — Self-hosted : transforme reçus/factures (photo/PDF) en CSV fiscal prêt à l’emploi (Docker, prompts custom)
+- **[Agent Reach](https://github.com/Panniantong/Agent-Reach)** — Accès web instantané pour agents IA (Twitter, Reddit, Bilibili…) sans clé API ni 403
+- **[GitNexus](https://github.com/abhigyanpatwari/GitNexus)** — Graphe de connaissances complet du codebase (Tree-sitter + MCP) pour Claude Code / Cursor
+- **[Vibeyard](https://github.com/elirantutia/vibeyard)** — Navigateur live intégré à Claude Code : clique sur n’importe quel élément pour l’éditer instantanément
+- **[TurboQuant Plus](https://github.com/TheTom/turboquant_plus)** — Implémentation solo-dev de l’optimisation KV cache Google (35B sur MacBook, 3.7× plus rapide)
+- **[Sam](https://github.com/every-app/sam)** — Agent d’écriture de contenu SEO model-agnostic, simple et extensible (recherche mots-clés + review)
+- **[Silicon Studio](https://github.com/rileycleavenger/Silicon-Studio)** — Fine-tuning & inference LLMs optimisés Apple Silicon
+- **[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)** — Version quantisée ultra-optimisée (≈5.1 bits) pour Mac (MLX, faible RAM)
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers…)
@@ -83,9 +76,8 @@
 - **[TablePro](https://github.com/datlechin/TablePro)** — Client base de données macOS avec assistance IA pour SQL
 
 **🔥 Nouveaux :**
-- **Google Colab intégré à VS Code** — GPU T4 gratuit + fichiers locaux directement dans ton éditeur[](https://x.com/heygurisingh/status/2031287290614743215)
-- **[DBcooper](https://github.com/dbcooper-app/dbcooper)** — Client DB léger Tauri+Rust (Postgres, SQLite, Redis, ClickHouse) + génération SQL en langage naturel
-- **[browsr](https://github.com/juftin/browsr)** — Explorateur de fichiers terminal puissant pour systèmes locaux et distants
+- **[Developer Icons](https://github.com/xandemon/developer-icons)** — Icônes SVG personnalisables pour tous les outils/tech/dev
+- **[SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill)** — Outil d’audit SEO avec 251 règles (skill pour agents)
 
 ## macOS & Productivity
 - **[Mole](https://github.com/tw93/Mole)** — Nettoyage et optimisation macOS (alternative CleanMyMac)
@@ -94,9 +86,8 @@
 - **[Memola](https://github.com/dscyrescotti/Memola)** — Application de prise de notes construite avec Metal (optimisée macOS)
 
 **🔥 Nouveaux :**
-- **[Port Menu](https://www.portmenu.dev/)** — Menu bar macOS qui liste tous tes serveurs dev en cours[](https://x.com/eduardwieandt/status/2030653886717899106)
-- **[Atoll](https://github.com/Ebullioscopic/Atoll)** — Transforme le notch du MacBook en surface de commande (médias, stats système, timers, calendrier, clipboard, color picker)
-- **[Spacecake](https://github.com/spacecake-labs/spacecake)** — Application desktop open-source pour Claude Code
+- **[SpacePigeon](https://github.com/louivers/spacepigeon)** — Gestionnaire de workspaces natif macOS
+- **[Silicon Studio](https://github.com/rileycleavenger/Silicon-Studio)** — Fine-tuning & inference LLMs optimisés Apple Silicon
 
 ## Self-Hosted & Serveurs
 - **[Lifeforge](https://github.com/Lifeforge-app/lifeforge)** — Système self-hosted pour organiser sa vie
@@ -105,11 +96,17 @@
 - **[Mixpost](https://github.com/inovector/mixpost)** — Plateforme self-hosted de gestion réseaux sociaux
 - **[Listmonk](https://github.com/knadh/listmonk)** — Gestionnaire de newsletters et mailing lists self-hosted (single binary)
 
+**🔥 Nouveau :**
+- **[Rybbit](https://github.com/rybbit-io/rybbit)** — Alternative open-source cookieless à Google Analytics (self-hosted, session replays, funnels, real-time)
+
 ## Sécurité & Password Managers
 - **[KeePassXC](https://keepassxc.org/)** — Gestionnaire de mots de passe open-source, offline, AES-256, TOTP
 
 ## 3D / Graphismes / WebGL
 - **[Three.js](https://github.com/mrdoob/three.js)** — La bibliothèque JS la plus populaire pour du 3D dans le navigateur
+
+**🔥 Nouveau :**
+- **[CADAM](https://github.com/Adam-CAD/CADAM)** — Text-to-CAD dans le navigateur (WebAssembly) + sliders interactifs + export STL/SCAD
 
 ## Bureautique & Collaboration
 - **[OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer)** — Suite bureautique open-source compatible MS Office
@@ -122,6 +119,9 @@
 ## Design & Inspiration
 - **[Krumzi](https://www.krumzi.com/tools/animated-background-generator)** — Générateur gratuit de fonds animés gradients
 - **[Upscayl](https://github.com/upscayl/upscayl)** — Upscaler d’images IA ultra-performant (Linux, macOS, Windows) – 44k+ stars
+
+**🔥 Nouveau :**
+- **[Awesome Design MD](https://github.com/VoltAgent/awesome-design-md)** — 31 systèmes de design (Apple, Spotify, Airbnb, Linear…) en un seul fichier .md pour agents IA
 
 ## Autres
 - **[Spec Kit](https://github.com/github/spec-kit)** — Toolkit pour mieux spécifier les projets IA
@@ -136,11 +136,7 @@
 - **[Lifo](https://lifo.sh/)** — OS ultra-rapide type Linux dans le navigateur (mapping APIs Linux → browser, pour agents et code non fiable)
 
 **🔥 Nouveaux ajouts :**
-- **[A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)** — Guide officiel OpenAI (design, orchestration, guardrails, multi-agent)
-- **[Ground Station](https://github.com/simplifyinAI/ground-station)** — Logiciel open-source RTL-SDR pour suivre satellites, météo spatiale, ISS, TV gratuite[](https://x.com/marc296134/status/2034144254533005319)
-- **Locally AI** — LLMs (Qwen 3.5 9B) ultra-optimisés sur iPhone/Mac avec MLX[](https://x.com/locallyaiapp/status/2029980377201197118)
-- **Okara AI CMO** — Équipe d’agents marketing complète en 1 clic (460k vues en 2h 🔥)[](https://x.com/sahilypatel/status/2033595338687443322)
-- **Nemotron 3 Super 120B + Ollama + OpenClaw** — Setup IA locale gratuite ultra-puissante[](https://x.com/juliangoldieseo/status/2032517466258288879)
+- **[Voxtral TTS (Mistral)](https://huggingface.co/mistralai/Voxt...)** — Modèle TTS open-weights qui tourne localement sur 3 GB RAM
 
 ## Licence
 [MIT](LICENSE)
