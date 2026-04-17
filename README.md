@@ -62,6 +62,8 @@
 - **[Sam](https://github.com/every-app/sam)** — Agent d’écriture de contenu SEO model-agnostic, simple et extensible (recherche mots-clés + review)
 - **[Silicon Studio](https://github.com/rileycleavenger/Silicon-Studio)** — Fine-tuning & inference LLMs optimisés Apple Silicon
 - **[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)** — Version quantisée ultra-optimisée (≈5.1 bits) pour Mac (MLX, faible RAM)
+- **[BitNet](https://github.com/microsoft/BitNet)** — Framework officiel d'inférence pour LLMs 1-bit (BitNet b1.58) — inference ultra-rapide et économe en énergie sur CPU/GPU
+- **[JetKVM](https://jetkvm.com)** — KVM over IP open-source/hardware : contrôle complet d'un ordinateur distant via navigateur (comme un PiKVM moderne)
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers…)
@@ -137,6 +139,7 @@
 
 **🔥 Nouveaux ajouts :**
 - **[Voxtral TTS (Mistral)](https://huggingface.co/mistralai/Voxt...)** — Modèle TTS open-weights qui tourne localement sur 3 GB RAM
+- **[JetKVM](https://jetkvm.com)** — KVM over IP open-source/hardware (contrôle distant d'ordinateur via navigateur)
 
 ## Licence
 [MIT](LICENSE)
