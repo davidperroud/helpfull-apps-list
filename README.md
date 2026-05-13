@@ -64,6 +64,12 @@
 - **[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)** — Version quantisée ultra-optimisée (≈5.1 bits) pour Mac (MLX, faible RAM)
 - **[BitNet](https://github.com/microsoft/BitNet)** — Framework officiel d'inférence pour LLMs 1-bit (BitNet b1.58) — inference ultra-rapide et économe en énergie sur CPU/GPU
 - **[JetKVM](https://jetkvm.com)** — KVM over IP open-source/hardware : contrôle complet d'un ordinateur distant via navigateur (comme un PiKVM moderne)
+- **[TinyKit](https://github.com/tinykit-studio/tinykit)** — Self-hosted open-source agentic app builder
+- **[SkillDeck](https://github.com/crossoverJie/SkillDeck)** — macOS GUI pour gérer les skills des agents IA de code
+- **[LobsterBoard](https://github.com/Curbob/LobsterBoard)** — Self-hosted drag-and-drop dashboard builder
+- **[Hy-MT1.5](https://github.com/Tencent/Hunyuan)** — Modèle de traduction open-source 1.8B (440MB quantisé 1.25-bit) offline sur mobile, 33 langues (Tencent)
+- **[NoteGen](https://github.com/codexu/note-gen)** — Application de notes Markdown AI cross-platform (OCR, structuration auto, sync GitHub, local-first)
+- **[DocuSeal](https://github.com/docusealco/docuseal)** — Génère des formulaires PDF remplissables avec signatures électroniques
 
 ## Outils Dev & Coding
 - **[Web-Check](https://github.com/Lissy93/web-check)** — Inspection complète d’un site (DNS, SSL, ports, headers…)
@@ -80,6 +86,9 @@
 **🔥 Nouveaux :**
 - **[Developer Icons](https://github.com/xandemon/developer-icons)** — Icônes SVG personnalisables pour tous les outils/tech/dev
 - **[SEO Audit Skill](https://github.com/seo-skills/seo-audit-skill)** — Outil d’audit SEO avec 251 règles (skill pour agents)
+- **[container-compose](https://github.com/full-chaos/container-compose)** — Outil docker-compose-like pour Apple Containers
+- **[LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** — Implémenter un LLM style ChatGPT en PyTorch from scratch (livre + code)
+- **[Nyno](https://github.com/flowagi-eu/nyno)** — AI Workflow Builder & Engine (YAML + GUI, commercial-friendly)
 
 ## macOS & Productivity
 - **[Mole](https://github.com/tw93/Mole)** — Nettoyage et optimisation macOS (alternative CleanMyMac)
@@ -90,6 +99,7 @@
 **🔥 Nouveaux :**
 - **[SpacePigeon](https://github.com/louivers/spacepigeon)** — Gestionnaire de workspaces natif macOS
 - **[Silicon Studio](https://github.com/rileycleavenger/Silicon-Studio)** — Fine-tuning & inference LLMs optimisés Apple Silicon
+- **[LocalSend](https://github.com/localsend/localsend)** — Alternative open-source à AirDrop (partage fichiers local WiFi, cross-platform)
 
 ## Self-Hosted & Serveurs
 - **[Lifeforge](https://github.com/Lifeforge-app/lifeforge)** — Système self-hosted pour organiser sa vie
@@ -103,6 +113,10 @@
 
 ## Sécurité & Password Managers
 - **[KeePassXC](https://keepassxc.org/)** — Gestionnaire de mots de passe open-source, offline, AES-256, TOTP
+- **[Faraday](https://github.com/infobyte/faraday)** — Open source vulnerability management and visualization platform
+- **[Hetty](https://github.com/dstotijn/hetty)** — Open source Burp Suite alternative for security research
+- **[Keep](https://github.com/keephq/keep)** — Open source AIOps and alert management platform
+- **[Infisical](https://github.com/Infisical/infisical)** — Open source platform for secure secret management
 
 ## 3D / Graphismes / WebGL
 - **[Three.js](https://github.com/mrdoob/three.js)** — La bibliothèque JS la plus populaire pour du 3D dans le navigateur
@@ -121,6 +135,7 @@
 ## Design & Inspiration
 - **[Krumzi](https://www.krumzi.com/tools/animated-background-generator)** — Générateur gratuit de fonds animés gradients
 - **[Upscayl](https://github.com/upscayl/upscayl)** — Upscaler d’images IA ultra-performant (Linux, macOS, Windows) – 44k+ stars
+- **[Refero Styles](https://styles.refero.design/)** — Design systems extraits pour agents IA (couleurs, typo, spacing, DESIGN.md)
 
 **🔥 Nouveau :**
 - **[Awesome Design MD](https://github.com/VoltAgent/awesome-design-md)** — 31 systèmes de design (Apple, Spotify, Airbnb, Linear…) en un seul fichier .md pour agents IA
@@ -140,6 +155,7 @@
 **🔥 Nouveaux ajouts :**
 - **[Voxtral TTS (Mistral)](https://huggingface.co/mistralai/Voxt...)** — Modèle TTS open-weights qui tourne localement sur 3 GB RAM
 - **[JetKVM](https://jetkvm.com)** — KVM over IP open-source/hardware (contrôle distant d'ordinateur via navigateur)
+- **[Obscura](https://github.com/h4ckf0r0day/obscura)** — Navigateur léger Rust ultra-rapide avec mode stealth (fingerprinting aléatoire)
 
 ## Licence
 [MIT](LICENSE)
